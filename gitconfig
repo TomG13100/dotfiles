@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tomguerrand7@gmail.com
+	name = Tom Guerrand
